@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+@font-face {
+    font-family: digital;
+    src: url(digital-7.ttf);
+}
+.font { font: 400px digital;
+    text-align: center;
+    color: #00d0ff;
+}
